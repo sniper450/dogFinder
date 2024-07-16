@@ -1,0 +1,7153 @@
+{
+    "australian": [
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/IMG_2599.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/IMG_3675.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/IMG_4918.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/IMG_7387.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20200214_191118_346649120350209.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20200303_233358_108952253645051.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20200416_142905_108884348190285.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20201114_133404_109264920155921.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/australian-shepherd/forest.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/australian-shepherd/leroy.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/australian-shepherd/pepper.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/australian-shepherd/pepper2.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/australian-shepherd/sadie.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      }
+    ],
+    "bakharwal": [
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      }
+    ],
+    "basenji": [
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1013.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1033.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1035.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1100.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1102.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_111.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1179.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1214.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1259.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1359.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1369.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1382.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1396.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1485.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1514.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1525.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1577.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1639.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1667.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1674.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1688.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_17.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1778.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_18.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1826.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1841.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1845.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1902.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1904.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1916.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_1942.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2006.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2100.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2157.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2208.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2249.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2349.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2356.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2365.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_238.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2421.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2551.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2627.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2630.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2716.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2774.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2860.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2903.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2926.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2957.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2995.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_2997.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3006.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3008.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3056.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3093.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3123.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3135.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3138.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3171.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_318.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3331.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3376.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_346.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3484.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3489.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3513.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3531.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3638.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3673.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3702.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3751.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3781.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3827.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3880.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3883.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3903.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3911.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3937.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3955.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3956.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3966.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3968.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3970.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3971.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3974.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3978.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3981.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_3995.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4012.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_402.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4024.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4051.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4055.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4058.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4062.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4072.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4117.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4122.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4142.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4150.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4156.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4179.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4196.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4199.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4216.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4218.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4242.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4280.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4289.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4291.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4297.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4302.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4307.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4322.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_433.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4331.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4370.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4395.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4435.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4463.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4472.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4483.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4488.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4550.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4615.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_469.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4711.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_479.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4792.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4853.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4876.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4966.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_4994.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5051.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5114.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_518.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5238.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5343.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5389.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_563.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5642.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5660.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5663.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5688.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_581.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_582.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5861.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_5971.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6016.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6066.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6137.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6156.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6247.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6282.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6323.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6352.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6380.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6424.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6528.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6542.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_6554.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_749.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_757.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_762.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_839.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_849.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_884.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_919.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/basenji/n02110806_979.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      }
+    ],
+    "beagle": [
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/beagle/1271553739_Milo.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/beagle/1374053345_Milo.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/beagle/166407056_Milo.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/beagle/184369380_Milo.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/beagle/603525417_Milo.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/beagle/Joey.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/beagle/Phoebe.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/beagle/homer.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10108.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10206.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10354.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10362.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10575.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10585.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10731.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10798.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_10947.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11130.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11136.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11147.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11231.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_1128.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11391.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11458.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11509.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11828.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11836.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_11930.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12124.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12131.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12154.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12178.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12213.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12303.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12397.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12405.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12440.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12710.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12713.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12756.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_129.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12920.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12972.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_12973.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13028.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13050.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13128.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13214.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13236.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13428.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13464.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13477.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13478.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13484.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13572.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13627.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13630.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13809.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_1384.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_13944.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14055.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14095.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14220.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14394.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14431.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14548.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14613.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14663.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14690.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14702.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14779.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14863.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14892.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_14968.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15036.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_1507.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15082.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15093.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15111.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15305.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15370.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15690.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15787.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_15877.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16060.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16065.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_161.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16165.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16207.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16339.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16493.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16502.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16508.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16519.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16588.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16635.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16689.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16695.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16704.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16721.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_16881.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17167.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17170.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17258.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17294.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17473.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17474.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17479.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17530.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17553.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17671.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17689.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17766.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_17935.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_18403.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_18404.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2000.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2019.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2106.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2143.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2360.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2415.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2499.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2502.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2566.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2572.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2652.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_2661.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_3752.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_3758.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4052.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4070.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4237.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_427.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4281.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4473.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4493.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4527.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4706.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4823.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_4879.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_5090.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_5123.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_5147.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_5282.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_5572.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_5716.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_5784.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_6089.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_6211.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_6358.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_639.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_6547.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_6611.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_6866.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_7247.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_7324.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_7784.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_7927.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_8443.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_8477.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_852.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_8713.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_876.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_8820.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_8871.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_9318.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_959.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_9652.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_9825.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/beagle/n02088364_9849.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      }
+    ],
+    "bluetick": [
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_101.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1073.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1077.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_108.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1108.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1118.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1126.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1145.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1173.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1176.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1209.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1219.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1236.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1274.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1277.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1376.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1463.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1499.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_152.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1541.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1576.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1592.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1625.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1636.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1704.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1745.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_175.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1750.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1765.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_1831.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_190.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2039.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2055.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2060.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2099.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2145.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2155.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2162.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2165.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2169.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2174.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2207.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2209.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2239.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2298.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2321.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2364.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2439.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2507.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2526.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_255.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_260.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2661.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2736.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2743.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2751.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2764.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_28.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2805.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2837.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2867.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2870.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2891.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2904.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_291.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2931.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2964.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_2965.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_301.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3046.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3049.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3230.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3309.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3318.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_336.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3404.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3433.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3478.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_349.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_353.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3531.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3545.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3640.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3667.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_369.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3699.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3737.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3749.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3828.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3888.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3912.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3923.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_3993.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4002.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_401.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4024.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4052.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4058.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4109.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4144.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4157.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4160.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4188.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_419.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4208.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4210.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4250.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4305.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4309.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4313.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4332.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4334.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4339.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4360.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4389.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4414.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4584.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4590.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4625.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4633.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4647.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4648.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4686.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_4687.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_512.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_562.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_597.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_600.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_610.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_613.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_616.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_679.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_686.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_70.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_744.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_747.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_793.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_813.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_819.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_834.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_864.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_87.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_874.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_916.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_924.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_926.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/bluetick/n02088632_982.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      }
+    ],
+    "borzoi": [
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_10281.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_10302.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_10343.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_10492.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_1082.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_1086.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_1253.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_1726.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_1786.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_2337.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_2518.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_2688.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_3156.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_3210.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_3300.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_3615.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_3763.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_3958.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_4038.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_431.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_4527.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5025.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5057.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5098.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5211.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5261.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5556.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5775.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_585.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5885.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5890.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_5956.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6080.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6094.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6106.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6123.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6131.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6166.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6172.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6204.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6293.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6303.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6372.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6565.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6639.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6713.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6771.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6777.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6851.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6894.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_693.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6971.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6976.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_6979.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7069.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7100.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7111.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7135.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7142.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7172.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7174.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7232.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7307.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7351.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7377.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7409.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7489.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7494.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7602.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7615.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7619.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7663.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7677.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7732.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7799.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7905.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7947.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7960.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7961.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_7962.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8009.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8057.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8221.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8236.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8303.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8338.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8380.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8509.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8543.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_855.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8610.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8634.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8674.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8703.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8745.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8764.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8806.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8814.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_8849.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_906.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_9278.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_9358.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_9374.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_9662.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_9708.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_9786.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/borzoi/n02090622_9814.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      }
+    ],
+    "bouvier": [
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/bouvier/PXL_20220130_185250212.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1000.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1005.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1016.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1048.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_112.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1131.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1151.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_117.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1229.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1311.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1316.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1365.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1381.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1399.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1440.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1452.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1454.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1470.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1486.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_152.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_154.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1623.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1633.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1673.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1700.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1787.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1800.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1828.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1893.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1925.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_1963.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2012.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2021.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2083.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2087.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2105.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2195.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2305.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2322.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2343.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2365.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2370.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2401.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_241.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2417.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2456.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2502.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2533.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2535.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2536.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2543.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2553.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2663.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2715.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2763.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_29.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_2922.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3014.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3048.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3080.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3095.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_312.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3124.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_314.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3425.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3437.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3571.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3692.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3704.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3713.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3756.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3770.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3840.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3848.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_3856.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4034.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4060.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4163.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4177.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4243.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4247.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4291.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_442.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4421.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4503.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4504.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4532.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4551.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4568.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4602.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4609.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4629.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4671.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_469.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4760.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_4789.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_501.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_5553.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_590.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_611.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_653.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_6601.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_704.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_7088.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_709.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_742.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_748.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_752.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_7656.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_788.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_8289.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_829.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_834.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_855.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_865.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_886.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_952.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/bouvier/n02106382_9651.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      }
+    ],
+    "boxer": [
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/boxer/28082007167-min.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/boxer/IMG_0002.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/boxer/IMG_3394.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1003.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_10229.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1031.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1072.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_10774.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_10901.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_10939.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11001.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11032.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1104.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11074.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11122.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11154.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1159.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11616.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11687.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_117.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11807.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_11875.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_122.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_12232.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_125.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_12738.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_12739.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_13340.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_13526.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1353.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1355.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1357.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1367.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_13738.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_13839.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_13898.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_14074.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1410.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_14112.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1418.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_14659.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_14719.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_149.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1511.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_15432.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1560.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_15702.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1571.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1575.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1619.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1626.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1654.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1672.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1675.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1690.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1748.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1757.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1775.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1859.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_1956.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2007.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2056.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2106.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2355.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2360.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2367.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2432.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2482.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2526.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2608.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2653.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2670.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_268.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2718.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2723.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2740.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2741.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2791.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2796.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2815.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2831.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2917.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_2953.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3028.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3162.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3236.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3258.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3269.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3365.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3395.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3400.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3412.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3547.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3557.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3669.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_3899.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_395.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4002.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4042.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Stella",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4076.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4119.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4158.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4440.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4486.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4681.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4730.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_485.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4865.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_4989.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5043.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_522.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5266.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_530.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5301.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_540.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5423.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5599.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5614.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5753.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_5977.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_6008.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_625.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_6295.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_6418.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_6429.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_6583.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_69.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_7259.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_7319.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_7431.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_7456.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_770.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_78.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_7853.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_813.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_836.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_849.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_8739.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_8969.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_9045.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_9076.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_922.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_926.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_931.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_959.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_9724.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_9778.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/boxer/n02108089_995.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      }
+    ],
+    "brabancon": [
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1041.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_105.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1057.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Abby",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_106.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1065.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_107.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1072.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_108.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1080.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1087.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1114.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1117.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1145.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1172.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1180.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1202.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1230.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1237.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1251.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1292.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1298.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1306.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1307.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Penny",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1336.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1368.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1379.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1394.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1409.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1418.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1419.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sammy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1453.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jackson",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1518.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1530.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_154.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1546.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1552.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1554.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1558.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1561.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1568.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1569.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1586.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1598.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_16.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1644.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1684.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1688.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1700.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1731.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1764.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1805.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1814.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Molly",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1833.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1860.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1862.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1869.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1875.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1882.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1899.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1925.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1970.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1971.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1983.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_1995.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2027.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_204.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2042.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2070.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2074.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2087.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2123.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2133.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2137.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ellie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2149.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Roxy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2155.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2156.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Toby",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2161.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oliver",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2169.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Riley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2184.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2188.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2191.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_220.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_223.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2269.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2295.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Henry",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_235.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gracie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_237.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2390.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2391.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2441.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2448.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2456.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Gus",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2467.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_2550.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_256.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_277.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_286.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_292.jpg",
+        "age": 8,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buster",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_31.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rocky",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_346.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Millie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_350.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Piper",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_360.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_362.jpg",
+        "age": 7,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_363.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_37.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Duke",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_377.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_381.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jack",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_396.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_400.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Luna",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_417.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Charlie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_420.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_426.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_442.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Max",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_449.jpg",
+        "age": 6,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Hazel",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_475.jpg",
+        "age": 6,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Leo",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_517.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_539.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Rosie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_540.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Lucy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_549.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Lola",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_600.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Murphy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_602.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Cody",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_605.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Teddy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_62.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Sadie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_637.jpg",
+        "age": 7,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Sophie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_643.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_663.jpg",
+        "age": 1,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_678.jpg",
+        "age": 4,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Oscar",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_68.jpg",
+        "age": 2,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Harley",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_726.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Ruby",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_735.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Mia",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_762.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bailey",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_781.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Buddy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_793.jpg",
+        "age": 1,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Jake",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_835.jpg",
+        "age": 3,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Zoe",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_86.jpg",
+        "age": 2,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Bella",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_866.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Winston",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_888.jpg",
+        "age": 8,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Chloe",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_898.jpg",
+        "age": 5,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Nala",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_967.jpg",
+        "age": 3,
+        "gender": "male",
+        "description": " "
+      },
+      {
+        "name": "Maggie",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_970.jpg",
+        "age": 4,
+        "gender": "female",
+        "description": " "
+      },
+      {
+        "name": "Daisy",
+        "url": "https://images.dog.ceo/breeds/brabancon/n02112706_977.jpg",
+        "age": 5,
+        "gender": "male",
+        "description": " "
+      }
+    ]
+  }
