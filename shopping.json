@@ -1,0 +1,23 @@
+{
+    "PRODUCTS":[
+        {
+            "userid":1,
+            "productid":1,
+            "price":20,
+            "title":"book",
+            "description":"this is a veery good product"
+        },
+        {
+            "userid":2,
+            "productid":1,
+            "price":200,
+            "title":"bags",
+            "description":"this is a veery good product"
+        },{
+            "userid":3,
+            "productid":1,
+            "price":2000,
+            "title":"uniform",
+            "description":"this is a veery good product"
+        }
+    ]}
